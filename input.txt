@@ -1,0 +1,4 @@
+encryption için örnek uygulamdır. 
+Uygulama input dosyası alır ve ilk olarak satır satır ayırır.
+Bundan sonraki adımda her satırın tek sayılı kelimesini normal olarak yazar çift kelimesini ters çevirir
+Çıkan sonucu ise input_result olarak başka bir dosya olarak aynı dizinde kayıt eder.
